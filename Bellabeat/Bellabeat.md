@@ -1,4 +1,4 @@
-# Bellabeat
+# Bellabeat Data Analysis: User Behavior & Engagement Strategy
 
 # **📂 ASK PHASE**
 
